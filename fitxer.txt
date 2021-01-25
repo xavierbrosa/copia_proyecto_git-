@@ -1,2 +1,4 @@
 Arxiu txt
 afegint tercer canvi però a la branca master
+Aquesta modificació està feta a la branch1
+
